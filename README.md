@@ -11,17 +11,6 @@
 
 </div>
 
----
-
-## 👥 Anggota Kelompok
-
-| Nama | NIM | Peran |
-|------|-----|-------|
-| [Nama Anggota 1] | [NIM] | Team Lead & Preprocessing |
-| [Nama Anggota 2] | [NIM] | Manual Calculation & Notebook |
-| [Nama Anggota 3] | [NIM] | Streamlit App & Evaluasi |
-
----
 
 ## 🎥 Video Milestone
 
