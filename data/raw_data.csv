@@ -1,0 +1,151 @@
+﻿id,pesan,label,sumber
+1,"Selamat! Anda memenangkan hadiah senilai Rp 50.000.000. Klik tautan ini untuk klaim hadiah Anda sekarang!",spam,manual
+2,"Halo Budi, meeting hari ini jam 14.00 WIB di ruang rapat lantai 3. Jangan lupa bawa laptop.",ham,manual
+3,"PROMO TERBATAS! Dapatkan iPhone 15 Pro gratis. Kirim nama & nomor rekening ke WA 08123456789",spam,manual
+4,"Pak Andi, laporan keuangan Q3 yang Bapak minta sudah saya upload ke Google Drive. Silakan cek email.",ham,manual
+5,"Mendesak! Akun bank Anda diblokir. Verifikasi sekarang melalui link: http://bit.ly/verif-palsu",spam,manual
+6,"Rek, besok ada tugas kelompok deadline jam 23.59. Kita kumpul di perpus jam 7 malam ya.",ham,manual
+7,"GRATIS! Daftar sekarang dan menangkan voucher belanja Rp 1.000.000 setiap hari. Klik disini!",spam,manual
+8,"Bu Sari, saya ingin konfirmasi bahwa dokumen kontrak sudah ditandatangani dan dikirim via pos.",ham,manual
+9,"Anda terpilih sebagai pemenang undian berhadiah mobil BMW. Hubungi kami di 021-XXXXXXX sekarang!",spam,manual
+10,"Selamat pagi, apakah kita bisa reschedule meeting besok ke hari Kamis? Saya ada agenda mendadak.",ham,manual
+11,"PERHATIAN: Paket Anda tertahan di bea cukai. Bayar biaya Rp 350.000 ke rek BCA 1234567890 a.n. Joko",spam,manual
+12,"Assalamualaikum, jadwal kajian malam ini dipindah ke masjid Al-Hidayah. Mohon disebarkan.",ham,manual
+13,"Uang tunai cepat tanpa jaminan! Hubungi 082XXXXXXXXX. Proses 1 jam cair. Terpercaya 100%!",spam,manual
+14,"Kak, nilai UTS saya berapa ya? Saya tidak bisa akses portal akademik dari tadi.",ham,manual
+15,"ALERT: Akun Gmail Anda akan dihapus dalam 24 jam. Konfirmasi di: http://fake-google.com/verify",spam,manual
+16,"Mom, I'll be home late today. Football practice runs until 8pm. Don't wait for dinner.",ham,manual
+17,"Congratulations! You've been selected for our exclusive credit card offer. 0% interest for 12 months!",spam,manual
+18,"Hi, just wanted to let you know the package arrived safely. Thanks so much for sending it!",ham,manual
+19,"FREE IPHONE! You are our lucky winner. Claim your prize at www.free-prize-fake.com now!",spam,manual
+20,"Hey, are we still on for lunch tomorrow? Let me know if the time still works for you.",ham,manual
+21,"URGENT: Your PayPal account has been limited. Verify your identity: http://paypal-secure-fake.net",spam,manual
+22,"Thanks for the recommendation! I checked out that restaurant and it was amazing.",ham,manual
+23,"Dapatkan penghasilan jutaan dari rumah! Daftar sekarang dan hasilkan Rp 5juta/hari. TERBUKTI!",spam,manual
+24,"Pak, absen saya hari Senin belum terekap di sistem. Mohon bantuannya untuk diperbaiki.",ham,manual
+25,"SELAMAT ULTAH! Hadiah spesial menunggu Anda. Klik link rahasia: http://hadiah-palsu.xyz/klaim",spam,manual
+26,"Dear team, please find attached the updated project timeline for Q4. Let's sync tomorrow.",ham,manual
+27,"Investasi crypto terpercaya! Modal Rp 500ribu untung Rp 5juta dalam seminggu. Gabung grup WA kami!",spam,manual
+28,"Bu, saya mau ijin tidak masuk besok karena demam. Sudah ke dokter dan dapat surat istirahat.",ham,manual
+29,"Nomor Anda dipilih untuk mendapatkan paket internet gratis 50GB. Klaim di: http://bit.ly/internet-gratis",spam,manual
+30,"Selamat sore, apakah bapak sudah menerima email konfirmasi pembayaran dari kami tadi siang?",ham,manual
+31,"FLASH SALE 99% OFF! Semua produk branded diskon besar. Stok terbatas! Order sekarang!",spam,manual
+32,"Halo kak, mau tanya apakah tugas akhir minggu ini dikumpulkan lewat email atau langsung?",ham,manual
+33,"Pinjaman kilat! Tanpa BI Checking. Cair dalam 1 jam. Hubungi 081XXXXXXXXX sekarang juga!",spam,manual
+34,"Good morning! Just a reminder that the quarterly review meeting is scheduled for 10 AM today.",ham,manual
+35,"WIN $1000 CASH! You have been selected. Text WIN to 12345 to claim your reward NOW!",spam,manual
+36,"Hey, I left my charger at your place last night. Can I pick it up sometime this week?",ham,manual
+37,"LOWONGAN KERJA PALSU: Gaji 20jt/bulan. Kerja dari rumah. Daftar kirim data diri ke link ini!",spam,manual
+38,"Halo, saya dari tim HR. Interview Anda dijadwalkan Kamis 20 November jam 10.00 di kantor kami.",ham,manual
+39,"Anda memenangkan tiket liburan gratis ke Bali! Kirimkan KTP dan data diri ke email ini sekarang.",spam,manual
+40,"Selamat malam, pesanan Anda dengan nomor #TRX2024001 sudah dikemas dan siap dikirim besok pagi.",ham,manual
+41,"DARURAT! Kartu ATM Anda diblokir. Aktifkan sekarang: http://atm-bca-palsu.com atau hubungi 08001234",spam,augmented
+42,"Hei, sudah lihat jadwal UAS yang baru? Berubah dari yang kemarin diumumkan.",ham,augmented
+43,"Anda mendapatkan bonus cashback Rp 2.000.000! Transfer minimal Rp 100rb ke 1234567890 untuk aktivasi.",spam,augmented
+44,"Pak Rudi, saya lampirkan notulen rapat minggu lalu untuk ditandatangani. Terima kasih.",ham,augmented
+45,"WINNER WINNER! Klik tautan ini dalam 10 menit atau hadiah hangus: http://klaim-sekarang.net",spam,augmented
+46,"Kak, buku yang kemarin dipinjam sudah saya kembalikan ke perpustakaan tadi.",ham,augmented
+47,"Obat diabetes alami! Sembuh dalam 3 hari tanpa pantangan. Order WA 0812XXXXXXXX sekarang!",spam,augmented
+48,"Selamat datang di perusahaan! Orientasi karyawan baru dimulai Senin jam 08.00 di aula lantai 1.",ham,augmented
+49,"INVESTASI EMAS SYARIAH! Untung 30% per bulan dijamin. Hubungi agen kami segera!",spam,augmented
+50,"Hai, nanti sore bisa temenin ke supermarket nggak? Mau beli bahan masak buat besok.",ham,augmented
+51,"Akun Tokopedia Anda diretas! Segera verifikasi data: http://tokopedia-secure-fake.id",spam,augmented
+52,"Rapat koordinasi divisi HR dijadwalkan Rabu jam 13.00. Harap hadir tepat waktu.",ham,augmented
+53,"KREDIT TANPA BUNGA! DP 0 rupiah. Cicilan mulai Rp 99.000/bulan. Kirim KTP ke WA kami.",spam,augmented
+54,"Selamat, skripsi kamu sudah disetujui untuk disidangkan. Jadwal sidang minggu depan.",ham,augmented
+55,"Daftar member VIP sekarang! Bayar Rp 250.000, hasilkan Rp 2.500.000/hari dari rumah!",spam,augmented
+56,"Ma, nanti pulang jam berapa? Titip beliin roti di toko dekat rumah ya.",ham,augmented
+57,"Anda menang undian Shopee Rp 10.000.000. Klik http://shopee-undian.xyz untuk klaim.",spam,augmented
+58,"Halo Dok, jadwal konsultasi saya besok jam 10 masih bisa ya?",ham,augmented
+59,"Pulsa gratis! Kirim kode OTP yang diterima ke nomor 0812XXXXXXXX untuk konfirmasi hadiah.",spam,augmented
+60,"Bu guru, saya mau kumpulkan tugas essay via email karena printer rumah rusak. Boleh ya?",ham,augmented
+61,"Menangkan motor Honda Beat! Daftar di http://undian-motor-gratis.com sebelum kuota habis.",spam,augmented
+62,"Teman-teman, jangan lupa bayar iuran arisan bulan ini paling lambat hari Jumat.",ham,augmented
+63,"CEPAT! Transfer Rp 500rb ke rekening ini dalam 1 jam atau data Anda akan kami sebar.",spam,augmented
+64,"Pak, saya sudah revisi laporan sesuai masukan Bapak. Terlampir versi terbaru.",ham,augmented
+65,"Pinjaman 50 juta cair 1 jam! Tanpa survei, tanpa agunan. Bunga 0%. Hubungi sekarang!",spam,augmented
+66,"Dear all, reminder bahwa libur lebaran dimulai dari tanggal 10 April. Selamat berlibur.",ham,augmented
+67,"Selamat Anda terpilih uji coba produk kecantikan gratis! Bayar ongkir Rp 15.000 saja.",spam,augmented
+68,"Sis, gimana kabar? Lama nggak ketemu. Kalau sempat kita ketemuan minggu depan yuk.",ham,augmented
+69,"BUTUH UANG CEPAT? Gadai SK PNS Anda! Cair dalam 30 menit. WA: 0813XXXXXXXX",spam,augmented
+70,"Halo, ini reminder bahwa langganan Netflix Anda akan diperpanjang otomatis bulan depan.",ham,augmented
+71,"Your SIM card will be deactivated! Call 0800-XXX-XXXX immediately to prevent suspension.",spam,augmented
+72,"Can you review the pull request I submitted yesterday? Let me know if there are any issues.",ham,augmented
+73,"CLAIM YOUR REWARD! You've accumulated 5000 bonus points. Redeem at www.fake-rewards.com",spam,augmented
+74,"Just wanted to say happy birthday! Hope you have a wonderful day with your family.",ham,augmented
+75,"WARNING: Virus detected on your phone! Download our cleaner app: http://fake-antivirus.com",spam,augmented
+76,"I'll send over the contract draft by end of day. Let me know if you need any changes.",ham,augmented
+77,"You have been pre-approved for a $10,000 loan. No credit check needed! Apply now!",spam,augmented
+78,"The conference call is rescheduled to 3 PM. Please update your calendar accordingly.",ham,augmented
+79,"MAKE MONEY FAST! Earn $500 daily from home. Proven system. Join now: www.earn-fast-fake.com",spam,augmented
+80,"Hey, did you get my voicemail? Please call me back when you get a chance.",ham,augmented
+81,"Congratulations! Your email was randomly selected. Click here to claim your $500 Amazon gift card.",spam,augmented
+82,"The doctor's appointment has been confirmed for Monday at 2:30 PM. Please arrive 15 minutes early.",ham,augmented
+83,"Act now! Limited time offer. Buy 1 get 10 FREE. Order before midnight: www.scam-deal.net",spam,augmented
+84,"I'm running 10 minutes late for our meeting. Please start without me if needed.",ham,augmented
+85,"Your bank account shows suspicious activity. Call us immediately: 1-800-FAKE-BANK",spam,augmented
+86,"Thanks for coming to my graduation ceremony. It meant a lot having you there.",ham,augmented
+87,"LOTTERY WINNER! Your number matched all 6 digits. Claim $1,000,000 at www.fake-lottery.org",spam,augmented
+88,"Please find attached the invoice for last month's services. Payment is due in 30 days.",ham,augmented
+89,"Hot singles in your area! Meet them tonight: www.fake-dating-scam.com",spam,augmented
+90,"The library books you requested are now available for pickup. You have 7 days to collect them.",ham,augmented
+91,"DARURAT! Nomor Anda terpilih. Klaim smartphone senilai Rp 15juta di http://klaim-hp.xyz hari ini!",spam,augmented
+92,"Halo Bu Dewi, saya sudah menyelesaikan semua revisi proposal. Bisa kita diskusi besok?",ham,augmented
+93,"Jual follower Instagram murah! 1000 follower Rp 25.000. Proses otomatis. WA 0811XXXXXXXX",spam,augmented
+94,"Pak, izin lapor bahwa sistem sudah kembali normal setelah maintenance tadi malam.",ham,augmented
+95,"WASPADA: Akun WhatsApp Anda akan dinonaktifkan. Verifikasi kode OTP yang kami kirim ke teman Anda!",spam,augmented
+96,"Selamat pagi Bapak, ini konfirmasi reservasi meja untuk 4 orang malam ini jam 19.00.",ham,augmented
+97,"Raih penghasilan tambahan 10jt/bulan! Hanya modal HP dan internet. Daftar gratis sekarang!",spam,augmented
+98,"Hei guys, nanti kumpul di kosan Dito jam 7 ya buat ngerjain tugas bareng.",ham,augmented
+99,"Anda menang undian Gojek Rp 50juta. Kirim data diri dan nomor rekening sekarang.",spam,augmented
+100,"Terima kasih atas kepercayaan Anda. Pesanan sudah kami proses dan akan dikirim 2-3 hari kerja.",ham,augmented
+101,"Solusi hutang Anda! Hapus nama dari SLIK OJK hanya Rp 3.000.000. Hubungi 0822XXXXXXXX",spam,augmented
+102,"Pak Hendra, tolong bantu urus SPT tahunan saya tahun ini. Berkas sudah saya siapkan.",ham,augmented
+103,"DISKON GILA 90%! Beli sekarang sebelum kehabisan. Stok tersisa 5 unit! http://tokobodong.com",spam,augmented
+104,"Selamat ulang tahun buat kamu! Semoga panjang umur dan selalu sehat ya.",ham,augmented
+105,"Jutawan baru lahir setiap hari dari bisnis kami! Gabung sekarang modal Rp 300rb balik modal seminggu!",spam,augmented
+106,"Mas, besok ada demo produk baru dari vendor. Kita ikut meetingnya bareng ya jam 10.",ham,augmented
+107,"PERINGATAN: Layanan internet Anda akan diputus. Bayar tagihan di http://bayar-tagihan-palsu.id",spam,augmented
+108,"Hai, sudah sampai di Jakarta dengan selamat. Nanti kalau ada waktu kita ketemuan ya.",ham,augmented
+109,"Transfer dana ke rekening aman kami untuk menghindari pembekuan aset Anda oleh pemerintah!",spam,augmented
+110,"Selamat Anda lulus seleksi administrasi. Harap hadir untuk tes tertulis Selasa pukul 08.00.",ham,augmented
+111,"Anda terpilih jadi brand ambassador! Gaji 15jt/bulan kerja dari rumah. WA sekarang!",spam,augmented
+112,"Pengumuman: libur nasional Senin depan kantor tetap buka setengah hari sampai jam 12 siang.",ham,augmented
+113,"KLIK SEKARANG! Hadiah Rp 75.000.000 menunggu Anda. Jangan sampai kadaluarsa!",spam,augmented
+114,"Bapak, saya dari bagian logistik. Barang kiriman Bapak sudah tiba di gudang kami.",ham,augmented
+115,"Penjualan saham bodong! Profit 200% dalam sebulan dijamin oleh perusahaan kami yang terpercaya.",spam,augmented
+116,"Halo teman-teman, besok ada buka puasa bersama di rumah Pak RT jam 18.00.",ham,augmented
+117,"Download film terbaru gratis tanpa bayar! Kunjungi www.nonton-bajakan.xyz sekarang.",spam,augmented
+118,"Kak, boleh minta nomor kontak dosen pembimbing? Mau minta jadwal bimbingan minggu ini.",ham,augmented
+119,"AGEN PULSA UNTUNG BESAR! Daftar sekarang modal 0 rupiah dan raih komisi jutaan setiap bulan!",spam,augmented
+120,"Bu, tadi saya sudah hubungi pihak asuransi. Klaim sudah diproses dan cair minggu depan.",ham,augmented
+121,"PELUANG BISNIS NYATA! Reseller produk herbal. Komisi 70%. Stok terjamin. WA 0816XXXXXXXX",spam,augmented
+122,"Halo Bro, gimana kondisi setelah operasi kemarin? Semoga cepat pulih ya.",ham,augmented
+123,"Klik link ini untuk verifikasi akun Anda sebelum diblokir permanen: http://verify-akun-palsu.com",spam,augmented
+124,"Selamat, Anda diterima sebagai peserta magang di perusahaan kami. Mulai Senin depan.",ham,augmented
+125,"PENAWARAN EKSKLUSIF HANYA HARI INI! Beli 2 dapat 5. Bayar via transfer rekening pribadi kami.",spam,augmented
+126,"Pak, saya sudah konfirmasi ke supplier. Barang akan tiba Jumat pagi sebelum jam 10.",ham,augmented
+127,"Undian berhadiah GRATIS! Isi data diri Anda di http://undian-gratis-palsu.net untuk ikut serta.",spam,augmented
+128,"Hei, kamu sudah kirim file presentasi ke panitia belum? Deadline hari ini jam 4 sore.",ham,augmented
+129,"Raih kebebasan finansial! Sistem autopilot hasilkan uang 24 jam sehari tanpa kerja keras.",spam,augmented
+130,"Dear Bapak/Ibu, kami informasikan bahwa jadwal pemadaman listrik di area Anda besok pukul 08-12.",ham,augmented
+131,"I just got paid! Finally can afford to take you out for dinner. Are you free Saturday night?",ham,augmented
+132,"EXCLUSIVE DEAL: Get 100% free vacation to Maldives. Just pay the handling fee of $99.",spam,augmented
+133,"Our team finished the sprint successfully. All user stories were completed on time.",ham,augmented
+134,"Your password will expire in 24 hours. Reset it now at http://fake-password-reset.com",spam,augmented
+135,"Sorry, forgot to mention the meeting is in Conference Room B not A. My bad!",ham,augmented
+136,"BREAKING: You have an unclaimed inheritance of $2.5 million! Contact lawyer@fake-law.com",spam,augmented
+137,"The kids are doing great at school. Both got straight As this semester. So proud!",ham,augmented
+138,"Final notice: Your car warranty is about to expire. Call 1-800-FAKE-WARR immediately.",spam,augmented
+139,"I'll be visiting next month. Can I stay at your place for a few days? Let me know.",ham,augmented
+140,"Earn cryptocurrency for free! Sign up and receive $500 in Bitcoin. No investment needed!",spam,augmented
+141,"Tolong kirimkan invoice bulan Oktober ke email saya. Deadline pembayaran Jumat besok.",ham,augmented
+142,"GRATIS ONGKIR SELURUH INDONESIA! Belanja sekarang minimal Rp 50rb dapat cashback Rp 500rb!",spam,augmented
+143,"Sudah lihat pengumuman hasil seleksi CPNS? Cek di website resmi BKN ya.",ham,augmented
+144,"Akun media sosial Anda terancam dihapus! Klik http://save-akun.xyz untuk mencegahnya.",spam,augmented
+145,"Halo Pak Johan, sudah saya email soft file dokumen legalitas perusahaan yang diminta.",ham,augmented
+146,"BISNIS SAMPINGAN MENGGIURKAN! Jual produk kita, komisi langsung masuk dompet digital kamu!",spam,augmented
+147,"Selamat atas kelahiran buah hati Anda! Semoga menjadi anak yang sehat dan berbakti.",ham,augmented
+148,"Kode OTP Anda adalah 847291. JANGAN BERIKAN KODE INI KEPADA SIAPAPUN TERMASUK CS KAMI.",ham,augmented
+149,"Halo, apakah masih ada kamar tersedia untuk tanggal 25-27 Desember? Mohon infonya.",ham,augmented
+150,"GIVEAWAY SMARTPHONE! Follow like dan kirim data KTP ke DM kami untuk ikut undian HP gratis.",spam,augmented
